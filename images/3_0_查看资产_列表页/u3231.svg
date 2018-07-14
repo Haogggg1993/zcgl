@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>nav_bar_more</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="nav_bar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav_bar_more" fill="#888888">
+            <path d="M8.5,27 C6.56700338,27 5,25.4329966 5,23.5 C5,21.5670034 6.56700338,20 8.5,20 C10.4329966,20 12,21.5670034 12,23.5 C12,25.4329966 10.4329966,27 8.5,27 Z M23.5,27 C21.5670034,27 20,25.4329966 20,23.5 C20,21.5670034 21.5670034,20 23.5,20 C25.4329966,20 27,21.5670034 27,23.5 C27,25.4329966 25.4329966,27 23.5,27 Z M38.5,27 C36.5670034,27 35,25.4329966 35,23.5 C35,21.5670034 36.5670034,20 38.5,20 C40.4329966,20 42,21.5670034 42,23.5 C42,25.4329966 40.4329966,27 38.5,27 Z" id="message_more" transform="translate(23.500000, 23.500000) rotate(-270.000000) translate(-23.500000, -23.500000) "></path>
+        </g>
+    </g>
+</svg>

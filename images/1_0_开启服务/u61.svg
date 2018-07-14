@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7">
+        <g id="侧边栏" transform="translate(-473.000000, -19.000000)" fill="#FFFFFF">
+            <g id="top">
+                <path d="M473,20 C473,19.4477153 473.449949,19 474.006845,19 L485.993155,19 C486.54922,19 487,19.4438648 487,20 C487,20.5522847 486.550051,21 485.993155,21 L474.006845,21 C473.45078,21 473,20.5561352 473,20 Z M473,25 C473,24.4477153 473.449949,24 474.006845,24 L485.993155,24 C486.54922,24 487,24.4438648 487,25 C487,25.5522847 486.550051,26 485.993155,26 L474.006845,26 C473.45078,26 473,25.5561352 473,25 Z M473,30 C473,29.4477153 473.449949,29 474.006845,29 L485.993155,29 C486.54922,29 487,29.4438648 487,30 C487,30.5522847 486.550051,31 485.993155,31 L474.006845,31 C473.45078,31 473,30.5561352 473,30 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
